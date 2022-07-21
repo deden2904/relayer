@@ -2,8 +2,8 @@
   "type": "sei",
   "value": {
     "key": "default",
-    "chain-id": "atlantic-i",
-    "rpc-addr": " https://rpc-sei-test.ecostake.com",
+    "chain-id": "atlantic-1",
+    "rpc-addr": "tcp://127.0.0.1:26657",
     "account-prefix": "sei",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
