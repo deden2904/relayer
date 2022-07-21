@@ -1,13 +1,13 @@
 {
-  "type": "cosmos",
+  "type": "sei",
   "value": {
     "key": "default",
-    "chain-id": "cosmoshub-4",
-    "rpc-addr": "http://cosmoshub.strange.love:26657",
-    "account-prefix": "cosmos",
+    "chain-id": "atlantic-i",
+    "rpc-addr": " https://rpc-sei-test.ecostake.com",
+    "account-prefix": "sei",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
-    "gas-prices": "0.01uatom",
+    "gas-prices": "0.0025usei",
     "debug": true,
     "timeout": "20s",
     "output-format": "json",
