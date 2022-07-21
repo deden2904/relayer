@@ -1,13 +1,13 @@
 {
-  "type": "cosmos",
+  "type": "bitcanna",
   "value": {
     "key": "default",
-    "chain-id": "osmosis-1",
-    "rpc-addr": "http://osmosis.strange.love:26657",
-    "account-prefix": "osmo",
+    "chain-id": "bitcanna-dev-4",
+    "rpc-addr": "https://rpc-testnet.bitcanna.io:443",
+    "account-prefix": "bitcanna",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
-    "gas-prices": "0.001uosmo",
+    "gas-prices": "0.000117bcna",
     "debug": true,
     "timeout": "20s",
     "output-format": "json",
